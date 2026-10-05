@@ -4,7 +4,7 @@ export const profile = {
   roles: ['Software Engineer', 'Data Analytics Engineer'],
   location: 'Salem, India',
   objective:
-    'A motivated Computer Science and Design Engineering graduate (2026) seeking an entry-level software development or data analyst role where I can apply my skills in Java, full-stack web development, and data analysis. Passionate about deriving meaningful insights from data and eager to contribute to organizational growth through continuous learning and hands-on problem-solving.',
+    'Computer Science & Design graduate (2026) skilled in Java, full-stack web development, and data analysis. Combines design thinking with back-end logic and data processing to build reliable web applications and extract actionable insights.',
   contact: {
     email: 'nithishmsg@gmail.com',
     phone: '+91 7010530649',
